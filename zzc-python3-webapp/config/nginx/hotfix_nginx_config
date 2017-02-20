@@ -1,0 +1,29 @@
+server {
+	# 监听80端口
+	listen 		80;
+
+	root 		/home/zzc/srv/hotfix/www;
+	access_log 	/home/zzc/srv/hotfix/log/access_log;
+	error_log	/home/zzc/srv/hotfix/log/error_log;
+
+	# 域名配置
+	#server_name xxx.com
+
+	# 处理静态文件
+	location /favicon.ico {
+		root /home/zzc/srv/hotfix/www;
+	}
+
+	# 处理静态资源
+	location ~ ^\/static\/.*$ {
+		root /home/zzc/srv/hotfix/www;
+	}
+
+	# 动态请求转发到9000端口
+	location / {
+		proxy_pass 			http://127.0.0.1:9000;
+		proxy_set_header 	X-Real-IP 				$remote_addr;
+		proxy_set_header 	Host					$host;
+		proxy_set_header	x-Forwarded-For 		$proxy_add_x_forwarded_for;
+	}
+}

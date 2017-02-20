@@ -1,0 +1,1185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b5ac1a05-ae84-4731-8b81-57998daa31de" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/__init__py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/img/img_index_bg.jpeg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/img/user.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/ClionProjects/HelloWorld/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/CLion2016.3/inspection/Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Library/Preferences/CLion2016.3/options/git.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/inspection/Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/diff.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/find.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/images.support.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/other.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/project.default.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/ui.lnf.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/zzc-python3-webapp/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/zzc-python3-webapp/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/zzc-python3-webapp/app.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/zzc-python3-webapp/db/Connect2MysqlTest.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/zzc-python3-webapp/db/db.py" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/PycharmProjects/zzc-python3-webapp/db/orm.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/cache/DiskCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/event/Crash.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/event/Fileds.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/event/Session.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/upload/StatisticUpload.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/upload/UploadPolicy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/util/DeviceUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/util/NetUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/QfpayEvent/qfpay-statistic/src/main/java/com/qfpay/statistic/util/SecurityUtil.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/common/Constants.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/entities/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/AwardStudent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/BaseUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/ChooseGameUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/ClassOverUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/CoinsExchangeUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/GamePassLevelUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/GetClassRecordUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/GetClassUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/GetGameAbilityExplainUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/GetGamesUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/GetStudentsUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/HaveClassUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/LoginUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/ReceviceRecordUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/SendClassRecordUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/SignInUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/StudentRegisterUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/TeacherRegisterUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/UploadOneAbilityRecordUserCase.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/UserModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/domain/src/main/java/com/szr/jkxsx/domain/interactor/impl/UserModelImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/presenters/BasePresenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/presenters/LoginPresenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/presenters/StudentListPresenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/presenters/TeacherRegisterPresenter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/utils/TextUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/viewmodel/BaseViewModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/viewmodel/LoginViewModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/viewmodel/StudentViewModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/viewmodel/TeacherViewModel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/viewmodelmapper/BaseViewModelMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/viewmodelmapper/LoginViewModelMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/views/BaseListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/views/BaseView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/views/LoginView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/views/StudentListView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../../android/workspace/teacher/presentation/src/main/java/com/szr/jkxsx/teacher/views/TeacherRegisterView.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fabfile.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/apis.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/config.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/config_default.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/config_override.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/coreweb.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/db/model/__init__.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/handlers.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/css/addons/uikit.addons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/css/addons/uikit.almost-flat.addons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/css/addons/uikit.gradient.addons.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/css/awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/css/uikit.almost-flat.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/css/uikit.gradient.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/css/uikit.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/js/awesome.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/js/sha1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/js/sticky.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/js/uikit.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/static/js/vue.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/__base__.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/blogs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/register.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/signin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/templates/test.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/test/__init__.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="handlers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/handlers.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+              <folding>
+                <element signature="e#70#132#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myapps.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/templates/myapps.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+              <folding>
+                <marker date="1487518480000" expanded="true" signature="1377:1506" ph="..." />
+                <marker date="1487518480000" expanded="true" signature="1429:1494" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="coreweb.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/coreweb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2175">
+              <caret line="151" column="29" lean-forward="false" selection-start-line="151" selection-start-column="29" selection-end-line="151" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="create_app.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/templates/create_app.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Setup Script" />
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>transaction</find>
+      <find>save(self)</find>
+      <find>get_required_kw_args</find>
+      <find>add_route</find>
+      <find>APIError</find>
+      <find>jinja2 template path</find>
+      <find>getValueOrDefault</find>
+      <find>__table__</find>
+      <find>yield from</find>
+      <find>__insert__</find>
+      <find>logging.info</find>
+      <find>__primary_key__</find>
+      <find>findAll</find>
+      <find>__pool</find>
+      <find>__select__</find>
+      <find>__user__</find>
+      <find>await</find>
+      <find>Primary key not found: None</find>
+      <find>StandardError</find>
+      <find>init</find>
+      <find>auth_factory</find>
+      <find>_COOKIE_KEY</find>
+      <find>cookie2user</find>
+      <find>/api/apps</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>yield from</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/db/Connect2MysqlTest.py" />
+        <option value="$PROJECT_DIR$/db/db.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/www/coreweb.py" />
+        <option value="$PROJECT_DIR$/www/config_override.py" />
+        <option value="$PROJECT_DIR$/www/config_default.py" />
+        <option value="$PROJECT_DIR$/www/config.py" />
+        <option value="$PROJECT_DIR$/www/templates/test.html" />
+        <option value="$PROJECT_DIR$/db/model/model_test.py" />
+        <option value="$PROJECT_DIR$/db/model/models.py" />
+        <option value="$PROJECT_DIR$/db/orm.py" />
+        <option value="$PROJECT_DIR$/fabfile.py" />
+        <option value="$PROJECT_DIR$/www/templates/__base__.html" />
+        <option value="$PROJECT_DIR$/www/templates/register.html" />
+        <option value="$PROJECT_DIR$/www/templates/signin.html" />
+        <option value="$PROJECT_DIR$/www/templates/index.html" />
+        <option value="$PROJECT_DIR$/www/apis.py" />
+        <option value="$PROJECT_DIR$/www/db/orm.py" />
+        <option value="$PROJECT_DIR$/www/db/model/models.py" />
+        <option value="$PROJECT_DIR$/www/test/test_handlers.py" />
+        <option value="$PROJECT_DIR$/www/app.py" />
+        <option value="$PROJECT_DIR$/www/templates/create_app.html" />
+        <option value="$PROJECT_DIR$/www/handlers.py" />
+        <option value="$PROJECT_DIR$/www/templates/myapps.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1519" />
+    <option name="y" value="133" />
+    <option name="width" value="1280" />
+    <option name="height" value="773" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zzc-python3-webapp" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="External Dependencies">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="/">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Users">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="joye">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Library">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="Caches">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="PyCharmCE2016.3">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="python_stubs">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="-2010535109">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="zzc-python3-webapp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT="zzc-python3-webapp">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT USER_OBJECT=".idea">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/test" />
+      <recent name="$PROJECT_DIR$/www" />
+      <recent name="$PROJECT_DIR$/www/templates" />
+      <recent name="$PROJECT_DIR$/www/static" />
+      <recent name="$PROJECT_DIR$/www/static/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/public/img" />
+      <recent name="$PROJECT_DIR$/www/static/img" />
+      <recent name="$PROJECT_DIR$/www" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration default="false" name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestHandlers.test_create_app_key" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/test/test_handlers.py" />
+      <option name="CLASS_NAME" value="TestHandlers" />
+      <option name="METHOD_NAME" value="test_create_app_key" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestHandlers.test_create_app_key (1)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/test/test_handlers.py" />
+      <option name="CLASS_NAME" value="TestHandlers" />
+      <option name="METHOD_NAME" value="test_create_app_key" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestHandlers.test_create_app_key (2)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/test/test_handlers.py" />
+      <option name="CLASS_NAME" value="TestHandlers" />
+      <option name="METHOD_NAME" value="test_create_app_key" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittest TestHandlers.test_create_app_key (3)" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/www/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/www/test/test_handlers.py" />
+      <option name="CLASS_NAME" value="TestHandlers" />
+      <option name="METHOD_NAME" value="test_create_app_key" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Attests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Nosetests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="zzc-python3-webapp" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="testToRun" value="" />
+      <option name="keywords" value="" />
+      <option name="params" value="" />
+      <option name="USE_PARAM" value="false" />
+      <option name="USE_KEYWORD" value="false" />
+      <method />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.app" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestHandlers.test_create_app_key" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestHandlers.test_create_app_key (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestHandlers.test_create_app_key (2)" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestHandlers.test_create_app_key (3)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.app" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittest TestHandlers.test_create_app_key" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittest TestHandlers.test_create_app_key (3)" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittest TestHandlers.test_create_app_key (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest TestHandlers.test_create_app_key (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b5ac1a05-ae84-4731-8b81-57998daa31de" name="Default" comment="" />
+      <created>1484066264305</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484066264305</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 16m 07s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 28m 00s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 29m 06s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 31m 24s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 31m 49s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 32m 13s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 32m 34s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 36m 42s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 38m 35s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_TestHandlers_test_create_app_key - 2017.02.16 at 17h 42m 23s.xml">
+      <configuration name="Unittest TestHandlers.test_create_app_key" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1519" y="133" width="1280" height="773" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1564734" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.42734376" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36857563" sideWeight="0.5726563" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2494043" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36316338" sideWeight="0.49791667" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/www/db/orm.py</url>
+          <line>257</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/www/handlers.py</url>
+          <line>167</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="16" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/db/Connect2MysqlTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" lean-forward="false" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mysql/connector/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="178" column="22" lean-forward="false" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mysql/connector/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/db/Connect2MysqlTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mysql/connector/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="178" column="22" lean-forward="false" selection-start-line="178" selection-start-column="22" selection-end-line="178" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mysql/connector/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/asyncio/base_events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="1051" column="0" lean-forward="false" selection-start-line="1051" selection-start-column="0" selection-end-line="1051" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mysql/connector/connection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="52" column="36" lean-forward="false" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mysql/connector/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2475">
+          <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/mysql/connector/network.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="471" column="0" lean-forward="false" selection-start-line="471" selection-start-column="0" selection-end-line="471" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/asyncio/events.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="125" column="0" lean-forward="false" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config_override.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="22" lean-forward="true" selection-start-line="0" selection-start-column="22" selection-end-line="0" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/config_default.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/tests/base.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/-2010535109/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3420">
+          <caret line="228" column="4" lean-forward="false" selection-start-line="228" selection-start-column="4" selection-end-line="228" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/-2010535109/_sqlite3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3915">
+          <caret line="261" column="12" lean-forward="false" selection-start-line="261" selection-start-column="12" selection-end-line="261" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/schema.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/uikit.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/css/addons/uikit.addons.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/img/user.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/static/js/awesome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/aiohttp/web.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="152" column="8" lean-forward="false" selection-start-line="152" selection-start-column="8" selection-end-line="152" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fabfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="5" lean-forward="false" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/db/Connect2MysqlTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/db/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1170">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="7" lean-forward="false" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/blogs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="19" lean-forward="false" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/db/model/model_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="38" lean-forward="false" selection-start-line="39" selection-start-column="38" selection-end-line="39" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharmCE2016.3/python_stubs/-2010535109/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="852" column="58" lean-forward="true" selection-start-line="852" selection-start-column="58" selection-end-line="852" selection-end-column="58" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/db/orm.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="169" column="27" lean-forward="false" selection-start-line="169" selection-start-column="27" selection-end-line="169" selection-end-column="27" />
+          <folding>
+            <element signature="e#16#30#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/apis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="30" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/db/model/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1065">
+          <caret line="74" column="7" lean-forward="false" selection-start-line="74" selection-start-column="7" selection-end-line="74" selection-end-column="7" />
+          <folding>
+            <element signature="e#33#44#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/test/test_handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/__base__.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="38" lean-forward="true" selection-start-line="38" selection-start-column="38" selection-end-line="38" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/aiohttp/web_server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="60" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="76" column="0" lean-forward="false" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+          <folding>
+            <element signature="e#58#72#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/coreweb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2175">
+          <caret line="151" column="29" lean-forward="false" selection-start-line="151" selection-start-column="29" selection-end-line="151" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/aiohttp/web_urldispatcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="791" column="0" lean-forward="false" selection-start-line="791" selection-start-column="0" selection-end-line="791" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="188" selection-end-column="0" />
+          <folding>
+            <element signature="e#70#132#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/create_app.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="44" lean-forward="false" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/templates/myapps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="46" column="6" lean-forward="false" selection-start-line="46" selection-start-column="6" selection-end-line="46" selection-end-column="6" />
+          <folding>
+            <marker date="1487518480000" expanded="true" signature="1377:1506" ph="..." />
+            <marker date="1487518480000" expanded="true" signature="1429:1494" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

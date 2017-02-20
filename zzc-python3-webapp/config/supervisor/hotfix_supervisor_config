@@ -1,0 +1,11 @@
+[program:awesome]
+
+command     = /home/zzc/srv/hotfix/www/app.py
+directory   = /home/zzc/srv/hotfix/www
+user        = zcc
+startsecs   = 3
+
+redirect_stderr         = true
+stdout_logfile_maxbytes = 50MB
+stdout_logfile_backups  = 10
+stdout_logfile          = /home/zzc/srv/hotfix/log/app.log

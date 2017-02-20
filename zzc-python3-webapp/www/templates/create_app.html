@@ -1,0 +1,73 @@
+{% extends '__base__.html' %}
+
+{% block title %}新建应用{% endblock %}
+
+{% block beforehead %}
+
+<script>
+var action = '{{ action }}';
+
+$(function() {
+	initVM( {
+		app_name: ''
+	});
+	$('#loading').hide();
+});
+
+function initVM(app) {
+	var app_vue = new Vue({
+	el: '#app_create',
+	data: app,
+	methods: {
+		submit: function(event) {
+			event.preventDefault();
+			var $form = $('#app_create').find('form');
+			$form.postJSON(action, this.$data, function(err, r) {
+				if(err) {
+					$form.showFormError(err);
+				} else {
+					return location.assign('/myapps');
+				}
+			});
+		}
+	}
+});
+}
+
+
+</script>
+
+{% endblock %}
+
+{% block content %}
+
+  <div id="error" class="uk-width-1-1">
+  </div>
+
+  <div id="loading" class="uk-width-1-1 uk-text-center">
+        <span><i class="uk-icon-spinner uk-icon-medium uk-icon-spin"></i> 正在加载...</span>
+  </div>
+
+
+  <div id="app_create" class="uk-width-2-3">
+  		<form v-on="submit: submit" class="uk-form uk-form-stacked">
+  			<div class="uk-alert uk-alert-danger uk-hidden"></div>
+
+  			<div class="uk-form-row">
+  				<label class="uk-form-label">应用名称:</label>
+  				<div class="uk-form-controls">
+  					<input v-model="app_name" type="text" name="app_name" placeholder="app名称" class="uk-width-1-1">
+  				</div>
+  				
+  				<div class="uk-form-row">
+  					<button type="submit" class="uk-button uk-button-primary"><i class="uk-icon-save"></i> 提交</button>
+  					<a href="/myapps" class="uk-button"><i class="uk-icon-times"></i> 取消</a>
+  				</div>
+  			</div>
+  		</form>
+  </div>
+
+
+
+
+{% endblock %}
